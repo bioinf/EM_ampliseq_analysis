@@ -1,0 +1,9 @@
+Sample	Condition	Donor
+Ctrl_rep1	eutopic	D3
+Ctrl_rep2	eutopic	D2
+Ctrl_rep3	eutopic	D4
+Ctrl_rep4	eutopic	D1
+Het_rep1	lesion	D3
+Het_rep2	lesion	D2
+Het_rep3	lesion	D4
+Het_rep4	lesion	D1
